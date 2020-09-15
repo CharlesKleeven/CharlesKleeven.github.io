@@ -1,7 +1,7 @@
 body { 
   font-family: 'WackPixelFont';
   margin-left: 4em;
-  color: #717744; /* text color */
+  color: #575a44; /* text color */
 }
 
 html {
@@ -19,12 +19,12 @@ html {
 .title {
   font-size: 56px;
   font-weight: bold;
-  color: #394053;
+  color: #3e4352;
 }
 
 h1 {
   font-size: 48px;
-  color: #A85751;
+  color: rgb(145, 90, 86);
 }
 
 h2 {
