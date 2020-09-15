@@ -1,11 +1,11 @@
 body {
-  color: #372222;
+  color: #788475; /* text color */
   font-family: 'TillanaFont';
   margin-left: 4em;
 }
 
 html {
-  background-color: #F7EEE1;
+  background-color: #FFF9EC; /* background color */
   font-size: 24pt;
   font-family: 'TillanaFont', sans-serif;
 }
@@ -30,7 +30,7 @@ html {
 .title {
   font-size: 56px;
   font-weight: bold;
-  color: #7E1C06;
+  color: #461220;
 }
 
 h1 {
