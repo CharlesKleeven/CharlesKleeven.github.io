@@ -7,7 +7,7 @@ body {
 html {
   background-color: #FFF9EC; /* background color */
   font-size: 24pt;
-  font-family: 'TillanaFont', sans-serif;
+  font-family: 'WackPixelFont', sans-serif;
 }
 
 @font-face {
@@ -17,9 +17,7 @@ html {
 }
 
 .pixelfont {
-  font-family: WackPixelFont;
   font-size: 48px;
-  color: #DA6E3C;
 }
 
 .title {
