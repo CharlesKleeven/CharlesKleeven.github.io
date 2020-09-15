@@ -20,11 +20,6 @@ html {
    color: #5e313c; 
 }
 
-.text {
-    font-size: 28px;
-    color: #3b4454;
-}
-
 h1 {
   font-size: 58px;
   color: #3e4352;
@@ -36,5 +31,4 @@ h2 {
 
 p {
   font-size: 34px;
-  color: #3b4454;
 }
