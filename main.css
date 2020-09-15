@@ -1,12 +1,12 @@
 body { 
   font-family: 'WackPixelFont';
   margin-left: 4em;
-  color: #575a44; /* text color */
+  color: #504d3f; /* text color */
 }
 
 html {
   background-color: #ECE2D0; /* background color */
-  font-size: 30px;
+  font-size: 36px;
 }
 
 @font-face {
@@ -18,16 +18,16 @@ html {
 .title {
   font-size: 64px;
   font-weight: bold;
-  color: #3e4352;
+   color: #5e313c; 
 }
 
 h1 {
-  font-size: 48px;
-  color: #915a56;
+  font-size: 58px;
+  color: #3e4352;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 48px;
 }
 
 p {
