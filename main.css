@@ -11,14 +11,21 @@ html {
 }
 
 @font-face {
-    font-family: TillanaFont;
-    src: url(../CharlesKleeven.github.io/tillana/tillana-medium.ttf);
+  font-family: TillanaFont;
+  src: url(../CharlesKleeven.github.io/tillana/tillana-medium.ttf);
+}
+
+@font-face {
+  font-family: WackPixelFont;
+  src: url(../CharlesKleeven.github.io/messingaroundfon.ttf);
+ 
 }
 
 .title {
   font-size: 56px;
   font-weight: bold;
   color: #7E1C06;
+  font-family: WackPixelFont;
 }
 
 h1 {
