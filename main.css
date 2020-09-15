@@ -2,10 +2,10 @@ body {
   width: 750px;
   font-family: 'Ubuntu', sans-serif;
   margin-left: 4em;
+  background-color: #F7ECE1;
 }
 
 html {
-  background-color: #F7ECE1;
   font-size: 12pt;
   -webkit-font-smoothing: antialiased;
 }
