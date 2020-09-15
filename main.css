@@ -15,9 +15,14 @@ html {
     src: url(../CharlesKleeven.github.io/tillana/tillana-medium.ttf);
 }
 
+.title {
+  font-size: 56px;
+  font-weight: bold;
+  color: #7E1C06;
+}
+
 h1 {
   font-size: 48px;
-  font-weight: bold;
 }
 
 h2 {
