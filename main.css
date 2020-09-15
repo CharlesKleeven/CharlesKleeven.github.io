@@ -17,10 +17,11 @@ html {
 
 h1 {
   font-size: 48px;
+  font-weight: bold;
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 36px;
 }
 
 p {
