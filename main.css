@@ -6,7 +6,6 @@ body {
 
 html {
   background-color: #ECE2D0; /* background color */
-  font-size: 24px;
 }
 
 @font-face {
@@ -31,5 +30,5 @@ h2 {
 }
 
 p {
-  font-size: 24px;
+  font-size: 34px;
 }
