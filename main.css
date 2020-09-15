@@ -1,11 +1,11 @@
 body {
-  color: #788475; /* text color */
+  color: #854D27; /* text color */
   font-family: 'WackPixelFont';
   margin-left: 4em;
 }
 
 html {
-  background-color: #F8F4E3; /* background color */
+  background-color: #ECE2D0; /* background color */
   font-size: 24pt;
   font-family: 'WackPixelFont', sans-serif;
 }
@@ -23,7 +23,7 @@ html {
 .title {
   font-size: 56px;
   font-weight: bold;
-  color: #D88373;
+  color: #394053;
 }
 
 h1 {
