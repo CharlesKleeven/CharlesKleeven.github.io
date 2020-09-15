@@ -1,11 +1,11 @@
 body {
-  width: 75000px;
+  width: 750px;
   font-family: 'Ubuntu', sans-serif;
   margin-left: 4em;
 }
 
 html {
-  background-color: #EEDFCF;
+  background-color: #F7ECE1;
   font-size: 12pt;
   -webkit-font-smoothing: antialiased;
 }
