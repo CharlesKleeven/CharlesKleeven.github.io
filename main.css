@@ -6,8 +6,6 @@ body {
 
 html {
   background-color: #ECE2D0; /* background color */
-  font-size: 24pt;
-  font-family: 'WackPixelFont', sans-serif;
 }
 
 @font-face {
@@ -17,14 +15,14 @@ html {
 }
 
 .title {
-  font-size: 56px;
+  font-size: 72px;
   font-weight: bold;
   color: #3e4352;
 }
 
 h1 {
-  font-size: 48px;
-  color: rgb(145, 90, 86);
+  font-size: 56px;
+  color: #915a56;
 }
 
 h2 {
