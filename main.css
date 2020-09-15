@@ -14,3 +14,7 @@ html {
     font-family: TillanaFont;
     src: url(../CharlesKleeven.github.io/tillana/tillana-regular.ttf);
 }
+
+p {
+  margin: 25px 75px 50px 100px;
+}
