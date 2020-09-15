@@ -1,1 +1,17 @@
+body {
+  color: #372222;
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 4em;
+}
 
+html{
+  background-color: #F7EEE1 ;
+  font-size: 12pt;
+}
+
+@font-face {
+    font-family: TillanaFont;
+    src: url("../CharlesKleeven/tillana-regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
