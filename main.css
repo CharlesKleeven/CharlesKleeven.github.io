@@ -5,7 +5,7 @@ body {
 }
 
 html {
-  background-color: #F5E2C8; /* background color */
+  background-color: #F8F4E3; /* background color */
   font-size: 24pt;
   font-family: 'WackPixelFont', sans-serif;
 }
@@ -23,7 +23,7 @@ html {
 .title {
   font-size: 56px;
   font-weight: bold;
-  color: #461220;
+  color: #D88373;
 }
 
 h1 {
