@@ -21,11 +21,14 @@ html {
  
 }
 
+.pixelfont {
+  font-family: WackPixelFont;
+}
+
 .title {
   font-size: 56px;
   font-weight: bold;
   color: #7E1C06;
-  font-family: WackPixelFont;
 }
 
 h1 {
