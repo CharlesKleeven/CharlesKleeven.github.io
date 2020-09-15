@@ -6,13 +6,13 @@ body {
 
 html {
   background-color: #F7EEE1;
-  font-size: 18pt;
+  font-size: 24pt;
   font-family: 'TillanaFont', sans-serif;
 }
 
 @font-face {
     font-family: TillanaFont;
-    src: url(../CharlesKleeven.github.io/tillana/tillana-regular.ttf);
+    src: url(../CharlesKleeven.github.io/tillana/tillana-medium.ttf);
 }
 
 p {
