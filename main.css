@@ -1,6 +1,6 @@
 body {
   color: #788475; /* text color */
-  font-family: 'TillanaFont';
+  font-family: 'WackPixelFont';
   margin-left: 4em;
 }
 
@@ -8,11 +8,6 @@ html {
   background-color: #FFF9EC; /* background color */
   font-size: 24pt;
   font-family: 'TillanaFont', sans-serif;
-}
-
-@font-face {
-  font-family: TillanaFont;
-  src: url(../CharlesKleeven.github.io/tillana/tillana-medium.ttf);
 }
 
 @font-face {
