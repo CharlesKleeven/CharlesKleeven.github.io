@@ -12,6 +12,6 @@ html{
 @font-face {
     font-family: TillanaFont;
     src: url("../CharlesKleeven/tillana/tillana-regular.ttf") format('truetype');
-    font-weight: normal;
+    font-weight: regular;
     font-style: normal;
 }
