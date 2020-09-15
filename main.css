@@ -1,7 +1,7 @@
-body {
-  color: #A85751; /* text color */
+body { 
   font-family: 'WackPixelFont';
   margin-left: 4em;
+  color: #717744; /* text color */
 }
 
 html {
@@ -16,10 +16,6 @@ html {
  
 }
 
-.pixelfont {
-  font-size: 48px;
-}
-
 .title {
   font-size: 56px;
   font-weight: bold;
@@ -28,6 +24,7 @@ html {
 
 h1 {
   font-size: 48px;
+  color: #A85751;
 }
 
 h2 {
