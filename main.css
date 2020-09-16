@@ -45,3 +45,27 @@ h2 {
 p {
   font-size: 34px;
 }
+
+/* unvisited link */
+a:link {
+  color: #3e4352;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:#3e4352;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color:#3b5454;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color:#3b5454;
+  text-decoration: underline;
+}
