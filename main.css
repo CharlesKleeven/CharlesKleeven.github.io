@@ -64,14 +64,14 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color:#ac5c60;
+  color:#cf5d63;
   text-decoration: none;
   font-size: 24px;
 }
 
 /* selected link */
 a:active {
-  color:#ac5c60;
+  color:#cf5d6;
   text-decoration: none;
   font-size: 24px;
 }
@@ -89,13 +89,13 @@ a.main:visited {
 
 /* mouse over link */
 a.main:hover {
-  color:#59a099;
+  color:#53cabe;
   text-decoration: none;
 }
 
 /* selected link */
 a.main:active {
-  color:#59a099;
+  color:#53cabe;
   text-decoration: none;
 }
 
@@ -112,12 +112,12 @@ a.people:visited {
 
 /* mouse over link */
 a.people:hover {
-  color:#7e9b4d;
+  color:#addd53;
   text-decoration: none;
 }
 
 /* selected link */
 a.people:active {
-  color:#7e9b4d;
+  color:#addd53;
   text-decoration: none;
 }
