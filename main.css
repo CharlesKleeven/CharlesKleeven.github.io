@@ -46,73 +46,38 @@ p {
   font-size: 34px;
 }
 
-/* unvisited link */
-a:link {
+/* unvisited, visited link */
+a:link, a:visited {
   color: #523e49;
   text-decoration: underline;
 
 }
 
-/* visited link */
-a:visited {
-  color:#523e49;
-  text-decoration: underline;
-}
-
-/* mouse over link */
-a:hover {
+/* mouse over link, selected */
+a:hover, a:active {
   color:#cf5d63;
   text-decoration: underline;
 }
 
-/* selected link */
-a:active {
-  color: #cf5d63;
-  text-decoration: underline;
-}
-
-a.main:link {
+a.main:link, a.main:visited {
   color: #3e4352;
   text-decoration: none;
 }
 
-/* visited link */
-a.main:visited {
-  color:#3e4352;
-  text-decoration: none;
-}
 
-/* mouse over link */
-a.main:hover {
+a.main:hover, a.main:active {
   color:#5e89cf;
   text-decoration: none;
 }
 
-/* selected link */
-a.main:active {
-  color:#5e89cf;
-  text-decoration: none;
-}
 
-a.people:link {
+a.people:link, a.people:visited {
   color: #504d3f;
   text-decoration: none;
 }
 
-/* visited link */
-a.people:visited {
-  color:#504d3f;
-  text-decoration: none;
-}
 
-/* mouse over link */
-a.people:hover {
-  color:#8da32c;
-  text-decoration: none;
-}
-
-/* selected link */
-a.people:active {
+a.people:hover, a.people:active {
   color:#8da32c;
   text-decoration: none;
 }
