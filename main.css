@@ -50,7 +50,6 @@ p {
 a:link {
   color: #523e49;
   text-decoration: none;
-  font-size: 24px;
 
 }
 
@@ -58,22 +57,18 @@ a:link {
 a:visited {
   color:#523e49;
   text-decoration: none;
-  font-size: 24px;
-
 }
 
 /* mouse over link */
 a:hover {
   color:#cf5d63;
   text-decoration: none;
-  font-size: 24px;
 }
 
 /* selected link */
 a:active {
-  color:#cf5d6;
+  color: #cf5d63;
   text-decoration: none;
-  font-size: 24px;
 }
 
 a.main:link {
@@ -89,13 +84,13 @@ a.main:visited {
 
 /* mouse over link */
 a.main:hover {
-  color:#53cabe;
+  color:#5ecfcb;
   text-decoration: none;
 }
 
 /* selected link */
 a.main:active {
-  color:#53cabe;
+  color:#5ecfcb;
   text-decoration: none;
 }
 
@@ -112,12 +107,12 @@ a.people:visited {
 
 /* mouse over link */
 a.people:hover {
-  color:#addd53;
+  color:#9ccf5e;
   text-decoration: none;
 }
 
 /* selected link */
 a.people:active {
-  color:#addd53;
+  color:#9ccf5e;
   text-decoration: none;
 }
