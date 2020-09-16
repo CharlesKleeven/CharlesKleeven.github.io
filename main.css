@@ -107,12 +107,12 @@ a.people:visited {
 
 /* mouse over link */
 a.people:hover {
-  color:#babd61;
+  color:#a7bd48;
   text-decoration: none;
 }
 
 /* selected link */
 a.people:active {
-  color:#babd61;
+  color:#a7bd48;
   text-decoration: none;
 }
