@@ -84,13 +84,13 @@ a.main:visited {
 
 /* mouse over link */
 a.main:hover {
-  color:#5ecfcb;
+  color:#5e89cf;
   text-decoration: none;
 }
 
 /* selected link */
 a.main:active {
-  color:#5ecfcb;
+  color:#5e89cf;
   text-decoration: none;
 }
 
@@ -107,12 +107,12 @@ a.people:visited {
 
 /* mouse over link */
 a.people:hover {
-  color:#9ccf5e;
+  color:#b1cf5e;
   text-decoration: none;
 }
 
 /* selected link */
 a.people:active {
-  color:#9ccf5e;
+  color:#b1cf5e;
   text-decoration: none;
 }
