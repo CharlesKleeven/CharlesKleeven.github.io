@@ -48,24 +48,47 @@ p {
 
 /* unvisited link */
 a:link {
-  color: #3e4352;
+  color: #523e49;
   text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-  color:#3e4352;
+  color:#523e49;
   text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-  color:#3b5454;
+  color:#4f523e;
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color:#3b5454;
+  color:#4f523e;
+  text-decoration: underline;
+}
+
+a.main:link {
+  color: #3e4352;
+  text-decoration: none;
+}
+
+/* visited link */
+a.main:visited {
+  color:#3e4352;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a.main:hover {
+  color:#3e5250;
+  text-decoration: underline;
+}
+
+/* selected link */
+a.main:active {
+  color:#46523e;
   text-decoration: underline;
 }
