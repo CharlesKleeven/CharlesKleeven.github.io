@@ -49,26 +49,26 @@ p {
 /* unvisited link */
 a:link {
   color: #523e49;
-  text-decoration: none;
+  text-decoration: underline;
 
 }
 
 /* visited link */
 a:visited {
   color:#523e49;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* mouse over link */
 a:hover {
   color:#cf5d63;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* selected link */
 a:active {
   color: #cf5d63;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a.main:link {
