@@ -1,7 +1,7 @@
 body { 
     font-family: 'WackPixelFont';
     margin-left: 4em;
-    color: #43513d; /* text color */
+    color: #3d5051; /* text color */
   }
   
   html {
@@ -29,13 +29,13 @@ body {
   
   h1 { /* titles like General Information */
     font-size: 36px;
-    color: #3e4352;
+    color: #523e3e;
   }
   
   h2 { /* like Name and DOB */
     font-size: 28px;
     font-weight: bold;
-    color: #504d3f;
+    color: #464337;
     display: inline;
   }
   
