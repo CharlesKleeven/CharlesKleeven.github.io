@@ -1,7 +1,7 @@
 body { 
     font-family: 'WackPixelFont';
     margin-left: 4em;
-    color: #3f5048; /* text color */
+    color: #50453f; /* text color */
   }
   
   html {
@@ -32,10 +32,11 @@ body {
     color: #3e4352;
   }
   
-  .label { /* like Name and DOB */
+  h2 { /* like Name and DOB */
     font-size: 28px;
     font-weight: bold;
     color: #504d3f;
+    display: inline;
   }
   
   p {
