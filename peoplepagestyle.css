@@ -1,7 +1,7 @@
 body { 
     font-family: 'WackPixelFont';
     margin-left: 4em;
-    color: #50453f; /* text color */
+    color: #8d5436; /* text color */
   }
   
   html {
@@ -24,7 +24,7 @@ body {
     list-style: circle;
     padding: 0;
     font-size: 28px;
-    margin: 0 0 0 0;
+    margin: 0 0 0 50px; /* top right bottom left */
   }
   
   h1 { /* titles like General Information */
