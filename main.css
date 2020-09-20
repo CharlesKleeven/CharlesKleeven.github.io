@@ -71,13 +71,15 @@ a.main:hover, a.main:active {
 }
 
 
-a.people:link, a.people:visited {
+a.people:link, a.people:visited
+a.places:link, a.places:visited {
   color: #504d3f;
   text-decoration: none;
 }
 
 
-a.people:hover, a.people:active {
+a.people:hover, a.people:active
+a.places:hover, a.places:active {
   color:#8da32c;
   text-decoration: none;
 }
